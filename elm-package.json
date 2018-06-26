@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Dictionaries with a maximum size",
-    "repository": "https://github.com/user/project.git",
+    "repository": "https://github.com/driebit/elm-max-size-dict.git",
     "license": "MIT",
     "source-directories": [
         "src"
